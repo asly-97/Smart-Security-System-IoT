@@ -16,3 +16,15 @@ The system consists of monitoring and surveillance of an area of a property for 
 - LED
 - PIR Motion Sensor
 - Buzzer
+
+### Architecture
+![Architecture](/assets/Architecture.png)
+
+### Function
+![Function](/assets/Function.png)
+
+### Shematic Diagram
+- #### ESP8266 Circuit
+![ESP8266 Circuit](/assets/ESP8266-Circuit.png)
+- #### ESP32 CAM Circuit
+![ESP32 CAM Circuit](/assets/ESP32-CAM-Circuit.png)
